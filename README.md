@@ -12,43 +12,48 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Shibli+Ahmed..;MERN+Stack+developer;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=900&height=50&lines=Hi👋+I'm+Md+Shibli+Ahmed..;Welcome+To+My+GitHub+Profile..;Nice+To+Meet+You+....&center=true"></a></p>
  
-<h3 align="center" color="#E22FE4">A Passionate MERN Stack developer from 🇧🇩</h3>  
+<h3 align="center" color="#d8008f"> 💻 A Focused MERN Stack Developer From 🇧🇩</h3>  
+<p align="center">
+<img width="48%" src="https://streak-stats.demolab.com/?user=shibli790&theme=shadow_red&hide_border=true&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+</p>
 
 <br>
 
 
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-👋 Nice to meet you. I'm a MERN Stack Developer with expertise in TypeScript, Redux, Next.js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
-<br /> <br/>
-🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I worked primarily with raw HTML and CSS.
+👋 Nice to meet you!
+I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Next.js, and Mongoose. I build everything from visually appealing front-end interfaces to secure and scalable back-end systems, following modern standards like JavaScript (ES6+) and RESTful APIs. My code is clean, well-organized, and designed to scale.
+ <br>
 
-💡In the middle of 2023, I started learning HTML, CSS, JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. I explored Firebase Authentication and gained foundational knowledge in Node.js, MongoDB, Express, and JWT.
 
-🚀 In 2024, I expanded my skills with TypeScript, Mongoose, Next.js, and Redux. With this skill set, I can build strong, secure, and industry-standard applications.
+🌱 My Journey
+- Late 2021: Started with HTML, CSS, and Bootstrap, working primarily with raw HTML/CSS to build basic layouts.
+
+- Mid 2023: Learned JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. Also explored Firebase Authentication, and gained foundational skills in Node.js, Express, MongoDB, and JWT.
+
+- 2024: Leveled up with TypeScript, Mongoose, Next.js, and Redux, enabling me to create full-stack applications that are robust, secure, and production-ready.
+
+
 <br> <br>
 
-<img width="48%" height='400' align="right" alt="Github" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img width="48%" height='400' align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
+- 🌱 Currently learning and growing as a Full Stack Web Developer
 
+- 🚀 Explore my work at [My Portfolio](#)
 
+- ✍️ I share tech thoughts and tips on [Facebook](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr) 
 
+- 💬 Open to discussions about Web Development, React, Node.js, and [more](#)
 
+- 📫 Feel free to reach out: **shibliahmed444@gmail.com**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 📄 View my professional background: [My Resume](#)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](add link)
-
-- 📝 I regularly write articles on facebook link add
-- 💬 Ask me about **web development**
-
-- 📫 How to reach me **shibliahmed444@gmail.com**
-
-- 📄 Know about my experiences [My Resume](add link)
-
-- ⚡ Fun fact **I love learning and teaching new technologies.**
+- ⚡ Fun Fact: I genuinely enjoy learning and teaching modern web technologies
 
 <br>
 <br>
@@ -113,7 +118,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sifatullahshoyon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shibli790&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 
 
@@ -125,33 +130,21 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibli790&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&disable_animations=false" alt="GitHub top-langs Card" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=shibli790&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p>
+
 
 <br>
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sifatullahshoyon) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sifatullahshoyon) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sifatullahshoyon) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sifatullahshoyon) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21062362/sifat-ullah-shoyon) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sifatullahshoyon) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sifatullah5484) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sifatullah.shoyon@gmail.com)
-
+[![Facebook]("https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white")](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshibliahmed) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibliahmed@gmail.com)
 <br> 
-
-<h2>🔝 Top Contributed Repo </h2> 
-
-
 
 <br>
 
 <h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left"><a href="https://ko-fi.com/shibliahmed" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=plastic&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://ko-fi.com/shibliahmed" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=plastic&logo=kofi&logoColor=Black" width="200px height="36" style="margin-right: 4px"></a></p>
 
 <br>
 <br>
