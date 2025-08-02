@@ -12,7 +12,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Shibli+Ahmed..;MERN+Stack+developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Shibli+Ahmed..;MERN+Stack+developer;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
  
 <h3 align="center" color="#E22FE4">A Passionate MERN Stack developer from 🇧🇩</h3>  
 
@@ -29,20 +29,24 @@
 
 🚀 In 2024, I expanded my skills with TypeScript, Mongoose, Next.js, and Redux. With this skill set, I can build strong, secure, and industry-standard applications.
 <br> <br>
-<img width="55%" height='400' align="right" alt="Github" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
+<img width="48%" height='400' align="right" alt="Github" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+
+
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-sifatullahshoyon.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](add link)
 
-- 📝 I regularly write articles on [https://www.facebook.com/SifatUllahShoyon](https://www.facebook.com/SifatUllahShoyon)
-
+- 📝 I regularly write articles on facebook link add
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **sifatullah.shoyon@gmail.com**
+- 📫 How to reach me **shibliahmed444@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FoiDLHETnPeHPw5Uwr7xxkO9cPpbAfOb/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](add link)
 
 - ⚡ Fun fact **I love learning and teaching new technologies.**
 
@@ -101,9 +105,9 @@
 
 | Project        | Description                          | Tech Stack                     | Links       |
 |----------------|--------------------------------------|--------------------------------|-------------|
-| ** Papyrus** | E-commerce for tech stationery       | Typescript, Redux, Mongoose, Expressjs | [Code](https://github.com/rafiferdos/papyrus) • [Demo](https://papyrus-client.vercel.app/) |
-| ** Tech Hiem** | E-commerce for tech gadgets       | Reactjs, NodeJs  | [Code](https://github.com/sifatullahshoyon/tech-heim-client) • [Demo](https://techheim.netlify.app/) |
-| ** HandToHand** | Motorcycle inventory system       | React, Express, JWT | [Code](https://github.com/sifatullahshoyon/hand_to_hand_client) • [Demo](https://hand-to-hand-frontend.vercel.app/) |
+| ** UI** | Shibli Ahmed Dark UI      | Html ,Css |       [Code](https://github.com/shibli790/b12a01-shibli.git) • [Demo](https://shibli790.github.io/b12a01-shibli/) |
+| ** UI** | Shibli Ahmed Dark UI      | Html ,Css | [Code](https://github.com/shibli790/b12a01-shibli.git) • [Demo](https://shibli790.github.io/b12a01-shibli/) |
+| ** UI** | Shibli Ahmed Dark UI      | Html ,Css | [Code](https://github.com/shibli790/b12a01-shibli.git) • [Demo](https://shibli790.github.io/b12a01-shibli/) |
 
 
 <br>
