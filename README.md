@@ -2,24 +2,33 @@
 
 
 <br>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=sifatullahshoyon&label=Profile%20views&color=0e75b6&style=flat" alt="sifatullahshoyon" /> </span> 
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=shibli790&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </span> 
 <br>
 <h4><span>Github Badges</span> <img width='20' align='center' src='https://cliply.co/wp-content/uploads/2021/02/392102940_MEDAL_3D_400px.gif' ></h4>
 
 <p><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> </>
 
-<br>
 
+
+
+
+
+
+
+<br>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=900&height=50&lines=Hi👋+I'm+Md+Shibli+Ahmed..;Welcome+To+My+GitHub+Profile..;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=size=30&color=E22FE4&width=900&height=50&lines=Hi👋+I'm+Md+Shibli+Ahmed..;Welcome+To+My+GitHub+Profile..;Nice+To+Meet+You+....&center=true"></a></p>
  
 <h3 align="center" color="#d8008f"> 💻 A Focused MERN Stack Developer From 🇧🇩</h3>  
 <p align="center">
 <img width="48%" src="https://streak-stats.demolab.com/?user=shibli790&theme=shadow_red&hide_border=true&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
-
 <br>
+
+
+
+
 
 
 
@@ -27,6 +36,13 @@
 👋 Nice to meet you!
 I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Next.js, and Mongoose. I build everything from visually appealing front-end interfaces to secure and scalable back-end systems, following modern standards like JavaScript (ES6+) and RESTful APIs. My code is clean, well-organized, and designed to scale.
  <br>
+
+
+
+
+
+
+ 
 
 
 🌱 My Journey
@@ -38,6 +54,14 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 
 
 <br> <br>
+
+
+
+
+
+
+
+
 
 <img width="48%" height='400' align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
@@ -54,9 +78,15 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 - 📄 View my professional background: [My Resume](#)
 
 - ⚡ Fun Fact: I genuinely enjoy learning and teaching modern web technologies
+<br>
+<br>
 
-<br>
-<br>
+
+
+
+
+
+
 
 <h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
@@ -104,6 +134,13 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 <br>
 <br>
 
+
+
+
+
+
+
+
 ## 🏆 Featured Projects
 
 <br>
@@ -115,25 +152,31 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 | ** UI** | Shibli Ahmed Dark UI      | Html ,Css | [Code](https://github.com/shibli790/b12a01-shibli.git) • [Demo](https://shibli790.github.io/b12a01-shibli/) |
 
 
-<br>
 
+
+
+
+<br>
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=shibli790&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 
 
-  <br>
-  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shibli790&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&custom_title=SHIBLI++AHMED" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibli790&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&disable_animations=false" alt="GitHub top-langs Card" />
-</p>
 
 
 
 <br>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shibli790&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&custom_title=SHIBLI++AHMED"alt="GitHub stats Card"/>
+  <img width="50%" height="700" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibli790&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&disable_animations=false" alt="GitHub top-langs Card" />
+</p>
 
+
+
+
+<br>
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 [![Facebook]("https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white")](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr) 
@@ -141,12 +184,17 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibliahmed@gmail.com)
 <br> 
 
-<br>
 
+
+
+<br>
 <h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p align="left"><a href="https://ko-fi.com/shibliahmed" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=plastic&logo=kofi&logoColor=Black" width="200px height="36" style="margin-right: 4px"></a></p>
 
-<br>
+
+
+
+
 <br>
 <br>
  <h2 align='left'> ✍️ Random Dev Quote</h4>
