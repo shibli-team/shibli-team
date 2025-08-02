@@ -179,7 +179,7 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 <br>
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
-[![Facebook]("https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white")](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshibliahmed) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibliahmed@gmail.com)
 <br> 
