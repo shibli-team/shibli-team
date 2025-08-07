@@ -13,10 +13,7 @@
  
 <h3 align="center" color="d8008f"> 💻 A Focused MERN Stack Developer From 🇧🇩</h3>  
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=shibli790&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://streak-stats.demolab.com/?user=shibli790&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"alt="GitHub Streak "/>
 </p>
 <br>
 
