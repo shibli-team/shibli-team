@@ -11,7 +11,7 @@
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&color=E22FE4&width=900&height=50&lines=Hi👋+I'm+Md+Shibli+Ahmed..;Welcome+To+My+GitHub+Profile..;Nice+To+Meet+You+....&center=true"></h2></p>
  
-<h3 align="center" color="d8008f"> 💻 A Focused MERN Stack Developer From 🇧🇩</h3>  
+<h3 align="center" color="d8008f"> 💻 A Focused MERN Stack Developer From 🇧🇩 </h3>  
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shibli790&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"alt="GitHub Streak "/>
 </p>
