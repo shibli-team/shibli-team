@@ -1,94 +1,70 @@
 ![👋 Hi, my name is SHIBLI AHMED...](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
-
-
 <br>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=shibli790&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </span> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibli790&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> 
 <br>
 <h4><span>Github Badges</span> <img width='20' align='center' src='https://cliply.co/wp-content/uploads/2021/02/392102940_MEDAL_3D_400px.gif' ></h4>
 
+
 <p><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> </>
-
-
-
-
-
-
-
-
+    
 <br>
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=size=30&color=E22FE4&width=900&height=50&lines=Hi👋+I'm+Md+Shibli+Ahmed..;Welcome+To+My+GitHub+Profile..;Nice+To+Meet+You+....&center=true"></a></p>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&color=E22FE4&width=900&height=50&lines=Hi👋+I'm+Md+Shibli+Ahmed..;Welcome+To+My+GitHub+Profile..;Nice+To+Meet+You+....&center=true"></h2></p>
  
-<h3 align="center" color="#d8008f"> 💻 A Focused MERN Stack Developer From 🇧🇩</h3>  
+<h3 align="center" color="d8008f"> 💻 A Focused MERN Stack Developer From 🇧🇩</h3>  
 <p align="center">
-<img width="48%" src="https://streak-stats.demolab.com/?user=shibli790&theme=shadow_red&hide_border=true&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=shibli790&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak Stats"
+  />
 </p>
 <br>
 
 
-
-
-
-
-
-<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+## <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 👋 Nice to meet you!
 I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Next.js, and Mongoose. I build everything from visually appealing front-end interfaces to secure and scalable back-end systems, following modern standards like JavaScript (ES6+) and RESTful APIs. My code is clean, well-organized, and designed to scale.
  <br>
 
+## 🌱 My Journey
 
-
-
-
-
- 
-
-
-🌱 My Journey
 - Late 2021: Started with HTML, CSS, and Bootstrap, working primarily with raw HTML/CSS to build basic layouts.
-
 - Mid 2023: Learned JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. Also explored Firebase Authentication, and gained foundational skills in Node.js, Express, MongoDB, and JWT.
-
 - 2024: Leveled up with TypeScript, Mongoose, Next.js, and Redux, enabling me to create full-stack applications that are robust, secure, and production-ready.
 
+<br>
 
-<br> <br>
+<img width="40%" height='350' align="right" alt="Github" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM0eXM1ZXdxaDRqOXpka3h1cDVmbGh6dm9tMnViOXlpMmJscWw0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 
-
-
-
-
-
-
-
-
-<img width="48%" height='400' align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-
-- 🌱 Currently learning and growing as a Full Stack Web Developer
-
-- 🚀 Explore my work at [My Portfolio](#)
-
-- ✍️ I share tech thoughts and tips on [Facebook](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr) 
-
-- 💬 Open to discussions about Web Development, React, Node.js, and [more](#)
-
+- 🌱 Currently learning and growing as a **Full Stack Web Development**
+  
+- 🚀 Explore my work at **[My Portfolio](#)**
+  
+- ✍️ I share tech thoughts and tips on **[Facebook](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr)**
+  
+- 💬 Open to discussions about **Web Development**, React, Node.js, and [more](#)
+  
 - 📫 Feel free to reach out: **shibliahmed444@gmail.com**
-
-- 📄 View my professional background: [My Resume](#)
-
+  
+- 📄 View my professional background: **[My Resume](#)**
+  
 - ⚡ Fun Fact: I genuinely enjoy learning and teaching modern web technologies
-<br>
-<br>
+<br /><br />
+
+## 🚀 My Learning Journey
+
+* Began with  **HTML & CSS**  in early 2025 to create basic static web pages.
+* Advanced to  **Tailwind CSS**  for building modern, responsive user interfaces.
+* Acquired strong fundamentals in **JavaScript (ES6+)** for adding interactivity and logic.
+* Delved into **React.js**, learning about components, hooks, and client-side routing.
+* Integrated **Firebase Authentication** for secure user login and registration.
+* Gained hands-on experience with **Node.js** and **Express.js** for backend development.
+* Worked with **MongoDB** to manage and integrate databases in full-stack applications.
+* Currently learning through **Tanvir Academy**, focusing on real-world projects and job-ready skills.
+* Fully committed to becoming a skilled and professional **Full-Stack Web Developer**.
 
 
-
-
-
-
-
-
-<h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -128,74 +104,71 @@ I'm a **MERN Stack Developer**  with hands-on expertise in TypeScript, Redux, Ne
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Integration-FF6C37.svg?style=for-the-badge&logo=openai&logoColor=white)
-
-
-
-<br>
 <br>
 
-
-
-
-
-
-
-
-## 🏆 Featured Projects
-
-<br>
-
-| Project        | Description                          | Tech Stack                     | Links       |
-|----------------|--------------------------------------|--------------------------------|-------------|
-| ** UI** | Shibli Ahmed Dark UI      | Html ,Css |       [Code](https://github.com/shibli790/b12a01-shibli.git) • [Demo](https://shibli790.github.io/b12a01-shibli/) |
-| ** UI** | Shibli Ahmed Dark UI      | Html ,Css | [Code](https://github.com/shibli790/b12a01-shibli.git) • [Demo](https://shibli790.github.io/b12a01-shibli/) |
-| ** UI** | Shibli Ahmed Dark UI      | Html ,Css | [Code](https://github.com/shibli790/b12a01-shibli.git) • [Demo](https://shibli790.github.io/b12a01-shibli/) |
-
-
-
-
-
-
-<br>
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=shibli790&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
-
-
-
-
-
 <br>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shibli790&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&custom_title=SHIBLI++AHMED"alt="GitHub stats Card"/>
-  <img width="50%" height="700" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibli790&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&disable_animations=false" alt="GitHub top-langs Card" />
-</p>
+<p align="center"><img width="46%" src="https://github-readme-stats.vercel.app/api?username=shibli790&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibli790&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+  
+## 🏆 Featured Projects
+ <div >
+        <table width="40%">
+            <thead>
+                <tr>
+                    <th>🚀 Project</th>
+                    <th>📄 Description</th>
+                    <th> 🖥 Tech Stack</th>
+                    <th>🔗 Links</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><b>My Most Recent Academic Course Project</b></td>
+                    <td>My Most Recent Academic Course Project</td>
+                    <td> HTML and CSS only</td>
+                    <td><a href="https://github.com/shibli790/B12A02-Responsive-shibli.git">Code</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp; <a
+                            href="https://shibli790.github.io/B12A02-Responsive-shibli/">Demo</a></td>
+                </tr>
+                <tr>
+                    <td><b>Portfolio Website</b></td>
+                    <td>A responsive personal portfolio designed to present my work, skills, and background </td>
+                    <td> HTML, CSS, JavaScript, Figma</td>
+                    <td><a href="">Code</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp; <a
+                            href="">Demo</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 
 
+## 📢 Get in Touchs
+📧 Email: shibliahmed444@gmail.com <br/>
+
+🌐 Portfolio Website: Coming Soon
+- 🎓 Currently Learning From: Programming Hero
+- ✍️ Languages I Write In: Bangla & English
+- 📍 Location: Narsingdi, Bangladesh <br> <br>
+🕒 Availability: 10:00 AM – 11:00 PM (GMT+6)
 
 
-<br>
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+## <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16whxRvvEg/?mibextid=wwXIfr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshibliahmed) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibliahmed@gmail.com)
 <br> 
+## 🧠 Dev Mindset Moment
 
+```text
+"First, solve the problem. Then, write the code." – John Johnson
+```
 
+<div align="center">
 
-
-<br>
-<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left"><a href="https://ko-fi.com/shibliahmed" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=plastic&logo=kofi&logoColor=Black" width="200px height="36" style="margin-right: 4px"></a></p>
-
-
-
-
-
-<br>
-<br>
- <h2 align='left'> ✍️ Random Dev Quote</h4>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thank%20You%20For%20Visiting&textBg=false&fontAlignY=65&reversal=true&animation=twinkling&fontSize=30&section=footer&fontAlign=50&fontColor=ffffff" />
+</div>
