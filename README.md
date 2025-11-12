@@ -4,6 +4,12 @@
 
 The platform includes dynamic reviews, a favorite system, authentication with Firebase, and a smooth user interface designed for responsiveness across all devices.
 
+--
+## 🔗 **Live Demo & Repo**
+
+* [Live Demo](#)
+* [GitHub Repository](#)
+
 ---
 
 ## 🌐 **Main Features**
@@ -148,13 +154,6 @@ The platform includes dynamic reviews, a favorite system, authentication with Fi
 * **Backend**: Node.js, Express.js, MongoDB
 * **Authentication**: Firebase (Email/Password + Google)
 * **Deployment**: Heroku/Netlify (Frontend)
-
----
-
-## 🔗 **Live Demo & Repo**
-
-* [Live Demo](#)
-* [GitHub Repository](#)
 
 ---
 
